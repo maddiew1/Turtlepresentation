@@ -1,8 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="24979e21-6df6-44ca-b23e-0de0a080b674" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/Turtlepresentation.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/alfredo.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dog.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flower.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/friends.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fruit.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/girl (1).gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itendswithus.gif" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music (1).gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notebook.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/salad.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/volleyball.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/volleyballnet.gif" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,21 +33,31 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="2wDqTVqpMUPa3a9nw7mS7KkwhJn" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/28wodarekm/PycharmProjects/Turtlepresentation&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\28wodarekm\PycharmProjects\Turtlepresentation" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\28wodarekm\PycharmProjects\Turtlepresentation" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
